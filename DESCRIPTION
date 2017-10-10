@@ -1,0 +1,9 @@
+Package: collegeIncome
+Title: Income and employment data by college major
+Version: 0.1.0
+Authors@R: c(
+    person("JHU", "Data Science Lab", role = c("aut", "cre"), email = "jhudsl@jhudatascience.org")
+    )
+Description: This package contains uncome and employment data by college major.
+Depends: R (>= 3.0)
+License: Artistic-2.0
